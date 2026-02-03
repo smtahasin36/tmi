@@ -1,0 +1,8 @@
+
+{
+  "name": "Tmi Top Up",
+  "description": "A high-performance gaming top-up web application with integrated admin dashboard and instant payment support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
